@@ -472,7 +472,7 @@ function check(){
          document.getElementById("head").innerHTML = "You Lost"
     }
     if(getCellState("TR") == getCellState("R") && getCellState("BR") == getCellState("R") && getCellState("R") != "-"){
-         document.getElementById("head").innerHTML = "You Lost""
+         document.getElementById("head").innerHTML = "You Lost"
     }
     if(getCellState("TL") == getCellState("M") && getCellState("BR") == getCellState("M") && getCellState("M") != "-"){
          document.getElementById("head").innerHTML = "You Lost"
