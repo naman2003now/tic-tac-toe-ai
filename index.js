@@ -457,28 +457,28 @@ function check(){
         document.getElementById("head").innerHTML = "It's a Draw"
     }
     if(getCellState("TL") == getCellState("TM") && getCellState("TM") == getCellState("TR") && getCellState("TL") != "-"){
-        document.getElementById("head").innerHTML = "The AI wins"
+        document.getElementById("head").innerHTML = "You Lost"
     }
     if(getCellState("L") == getCellState("M") && getCellState("M") == getCellState("R") && getCellState("L") != "-"){
-        document.getElementById("head").innerHTML = "The AI wins"
+        document.getElementById("head").innerHTML = "You Lost"
     }
     if(getCellState("BL") == getCellState("BM") && getCellState("BM") == getCellState("BR") && getCellState("BL") != "-"){
-        document.getElementById("head").innerHTML = "The AI wins"
+         document.getElementById("head").innerHTML = "You Lost"
     }
     if(getCellState("TL") == getCellState("L") && getCellState("BL") == getCellState("L") && getCellState("L") != "-"){
-        document.getElementById("head").innerHTML = "The AI wins"
+         document.getElementById("head").innerHTML = "You Lost"
     }
     if(getCellState("TM") == getCellState("M") && getCellState("BM") == getCellState("M") && getCellState("M") != "-"){
-        document.getElementById("head").innerHTML = "The AI wins"
+         document.getElementById("head").innerHTML = "You Lost"
     }
     if(getCellState("TR") == getCellState("R") && getCellState("BR") == getCellState("R") && getCellState("R") != "-"){
-        document.getElementById("head").innerHTML = "The AI wins"
+         document.getElementById("head").innerHTML = "You Lost""
     }
     if(getCellState("TL") == getCellState("M") && getCellState("BR") == getCellState("M") && getCellState("M") != "-"){
-        document.getElementById("head").innerHTML = "The AI wins"
+         document.getElementById("head").innerHTML = "You Lost"
     }
     if(getCellState("TR") == getCellState("M") && getCellState("BL") == getCellState("M") && getCellState("M") != "-"){
-        document.getElementById("head").innerHTML = "The AI wins"
+         document.getElementById("head").innerHTML = "You Lost"
     }
 }
 
