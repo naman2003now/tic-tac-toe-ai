@@ -440,6 +440,7 @@ function setCellState(cellName, state){
 function resetGame(){
     allCells.forEach(cell => setCellState(cell, "-"))
     document.getElementById("head").innerHTML = ""
+    change()
     if(!(playerTurn)){
         setCellState(AI[generateStateId()], "O")
     }
