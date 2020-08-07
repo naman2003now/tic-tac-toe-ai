@@ -3,8 +3,8 @@
     width: 30%;
     margin: auto;
     font-size: 100px;
-    color: #f7c5cc;
-    background-color: #cc313d;
+    color: #2e2e2e;
+    background-color: #ffa600;
     border: none;
 }
 #head{
@@ -16,8 +16,8 @@
 }
 #reset{
     border: none;
-    color: #f7c5cc;
-    background-color: #cc313d;
+    color: #2e2e2e;
+    background-color: #ffa600;
     align-self: end;
     height: 50px;
     margin-left: 250px;
@@ -37,16 +37,16 @@
     margin-bottom: 30px;
     margin-right: 20px;
     width: 150px;
-    color: #f7c5cc;
-    background-color: #cc3120;
+    color: #2e2e2e;
+    background-color: #ffa600;
 }
 .cells:hover{
     height: 98%;
     width: 30%;
     margin: auto;
     font-size: 100px;
-    color: #f7c5cc;
-    background-color: #cc3120;
+    color: #2e2e2e;
+    background-color: #ffa600;
     border: none;
 }
 
@@ -63,5 +63,5 @@
 }
 
 #body{
-    background-color: #f7c5cc;
+    background-color: #2e2e2e;
 }
