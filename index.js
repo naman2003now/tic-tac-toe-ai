@@ -414,6 +414,7 @@ let AI = {
     "-XX-OOOXX": "L", 
     "X-X-OOOXX": "L", 
     "O-----XXO": "M",
+    "OXO-XXXOO": "L", 
 }
 let draw = false
 let win = false
