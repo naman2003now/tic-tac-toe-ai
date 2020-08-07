@@ -413,6 +413,7 @@ let AI = {
     "--X-O-OXX": "R", 
     "-XX-OOOXX": "L", 
     "X-X-OOOXX": "L", 
+    "O-----XXO": "M",
 }
 let draw = false
 let win = false
