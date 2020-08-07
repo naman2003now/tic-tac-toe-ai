@@ -3,12 +3,12 @@
     width: 30%;
     margin: auto;
     font-size: 100px;
-    color: #2E2E2E;
-    background-color: #ffa929;
+    color: #ffffff;
+    background-color: #ba002b;
     border: none;
 }
 #head{
-    color: #ffa929;
+    color: #ba002b;
     padding-top: 75px;
     text-align: center;
     margin: auto;
@@ -16,8 +16,8 @@
 }
 #reset{
     border: none;
-    color: #2E2E2E;
-    background-color: #ffa929;
+    color: #ffffff;
+    background-color: #ba002b;
     align-self: end;
     height: 50px;
     margin-left: 250px;
@@ -37,16 +37,16 @@
     margin-bottom: 30px;
     margin-right: 20px;
     width: 150px;
-    color: #2E2E2E;
-    background-color: #ffe1a9;
+    color: #ffffff;
+    background-color: #e60035;
 }
 .cells:hover{
     height: 98%;
     width: 30%;
     margin: auto;
     font-size: 100px;
-    color: #2E2E2E;
-    background-color: #ffe1a9;
+    color: #ffffff;
+    background-color: #e60035;
     border: none;
 }
 
@@ -63,5 +63,5 @@
 }
 
 #body{
-    background-color: #2E2E2E;
+    background-color: #ffffff;
 }
