@@ -38,7 +38,7 @@
     margin-right: 20px;
     width: 150px;
     color: #2e2e2e;
-    background-color: #ffa620;
+    background-color: #ffa630;
 }
 .cells:hover{
     height: 98%;
@@ -46,7 +46,7 @@
     margin: auto;
     font-size: 100px;
     color: #2e2e2e;
-    background-color: #ffa620;
+    background-color: #ffa630;
     border: none;
 }
 
